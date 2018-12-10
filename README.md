@@ -11,7 +11,7 @@ My answers are uploaded in pdf form, and the code is under the *Code* directory.
 GitHub will handle code pull requests well (shocking I know), so feel free to do so if you have better/other example code.
 
 ## Please don't post any code from the projects or the Linked List problem!
-
+Are you a TA/Instructor and see something that shouldn't be posted? If so, send me an email immediatly. I've asked an instructor, and I've been told it should be fine to post this as long as it has no project code (and it has absolutely no project code).
 
 
 
