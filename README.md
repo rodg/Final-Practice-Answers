@@ -1,7 +1,7 @@
 # Final Practice Answers
 
 ## What is this?
-This is a GitHub repository with my answers to the practice final. Please don't use the code in this for anything other than review (it's pretty useless). Do not upload any new code in the form of a pull request unless you have asked about it first. 
+This is a GitHub repository with my answers to the practice final. Please don't use the code in this for anything other than review (it's pretty useless). Keep any discussion under this repository academically honest please.
 
 ## Contributing or fixing errors
 If you find an error in the answers, please let me know so that I can fix it. I will see posts on Piazza as well as issues/pull requests on GitHub. I am certain that there are errors in my answers, and it would be very helpful to be made aware of them.
