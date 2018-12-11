@@ -7,7 +7,7 @@ public class withTurboEngine extends BoatDecorator{
 	}
 	
 	public int maxCapacity() {
-		return b.maxCapacity();//big engine less people
+		return b.maxCapacity();
 	}
 	
 	public int topSpeed() {
