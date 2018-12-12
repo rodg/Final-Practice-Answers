@@ -235,6 +235,7 @@ public class BinarySearchTree<K extends Comparable<K>, V> {
 		}
 	}
 	
+	//if you really wanted a threaded example look at nonrecursivethread
 	public void threadInOrder() {
 		threadAux(root);
 		
