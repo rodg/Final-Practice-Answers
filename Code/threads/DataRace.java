@@ -5,6 +5,7 @@ import java.util.ArrayList;
 public class DataRace {
 
 	public static void main(String[] args) {
+		System.out.println("Im run");
 		
 		ArrayList<String> bananas = new ArrayList<String>();
 		for(int i = 0; i <= 20; i++)
@@ -20,14 +21,7 @@ public class DataRace {
 			for(int i = 0; i <=20; i+=2)
 				bananas.add(i, "orange");
 		};
-		
-		Thread test = new Thread(()->{
-			for(String b: bananas) {
-				System.out.println(b);
-			}
-		});
-		
-		
+				
 		Thread reader = new Thread(A);
 		Thread writer = new Thread(B);
 		reader.start();
