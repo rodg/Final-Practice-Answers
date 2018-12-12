@@ -11,13 +11,13 @@ public class Main {
 		bst.insert(1, 2);
 		bst.insert(5, 4);
 		bst.insert(6, 3);
-		System.out.println(bst.find(3));
+		/*System.out.println(bst.find(3));
 		System.out.println(bst.treeHeight());
 		bst.preorderPrint();
 		BinarySearchTree<Integer, Integer> subMap = bst.subMap(0, 7);
 		System.out.println("submap");
 		subMap.preorderPrint();
-		System.out.println("Size: " + bst.size());
+		System.out.println("Size: " + bst.size());*/
 		
 		bst.nonRecursiveThreadInOrder();
 		bst.threadedWalk();
